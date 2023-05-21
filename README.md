@@ -24,3 +24,8 @@ This website was developed refering to the tutorial: https://www.youtube.com/wat
 Here are some screenshots of the Movie Library Website:
 ![Movie Library Screenshot 1](/public/landing_page.jpg)
 ![Movie Library Screenshot 2](/public/details_page.jpg)
+
+![Movie Library Screenshot 1](https://github.com/shivaramr/redux-movie-app/assets/85446156/2a53fbe7-64d4-421a-afd3-b1137fbc261b)
+![Movie Library Screenshot 2](https://github.com/shivaramr/redux-movie-app/assets/85446156/f5566807-6de5-4a8f-aa63-606697d62090)
+
+
